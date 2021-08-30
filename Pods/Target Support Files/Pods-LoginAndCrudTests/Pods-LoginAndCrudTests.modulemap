@@ -1,0 +1,6 @@
+framework module Pods_LoginAndCrudTests {
+  umbrella header "Pods-LoginAndCrudTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
